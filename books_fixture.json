@@ -1,0 +1,263 @@
+[
+    {
+      "model": "books.book",
+      "pk": 1,
+      "fields": {
+        "title": "Программирование на Python",
+        "year": 2020,
+        "description": "Книга о программировании на языке Python.",
+        "book_type": "PB",
+        "created_at": "2024-03-12T12:00:00Z",
+        "updated_at": "2024-03-12T12:00:00Z",
+        "slug": "programmirovanie-na-python"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 2,
+      "fields": {
+        "title": "Основы алгоритмов",
+        "year": 2018,
+        "description": "Книга о базовых алгоритмах и структурах данных.",
+        "book_type": "HC",
+        "created_at": "2024-03-12T12:00:00Z",
+        "updated_at": "2024-03-12T12:00:00Z",
+        "slug": "osnovy-algoritmov"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 3,
+      "fields": {
+        "title": "JavaScript: Полное руководство",
+        "year": 2019,
+        "description": "Книга о языке программирования JavaScript.",
+        "book_type": "EB",
+        "created_at": "2024-03-12T12:00:00Z",
+        "updated_at": "2024-03-12T12:00:00Z",
+        "slug": "javascript-polnoe-rukovodstvo"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 4,
+      "fields": {
+        "title": "HTML и CSS: Дизайн и разработка веб-сайтов",
+        "year": 2021,
+        "description": "Книга о создании веб-сайтов с использованием HTML и CSS.",
+        "book_type": "PB",
+        "created_at": "2024-03-12T12:00:00Z",
+        "updated_at": "2024-03-12T12:00:00Z",
+        "slug": "html-i-css-dizayn-i-razrabotka-veb-saytov"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 5,
+      "fields": {
+        "title": "Django для начинающих",
+        "year": 2022,
+        "description": "Книга о веб-фреймворке Django для начинающих.",
+        "book_type": "PB",
+        "created_at": "2024-03-12T12:00:00Z",
+        "updated_at": "2024-03-12T12:00:00Z",
+        "slug": "django-dlya-nachinayushchikh"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 6,
+      "fields": {
+        "title": "SQL и базы данных",
+        "year": 2023,
+        "description": "Книга о языке структурированных запросов и базах данных.",
+        "book_type": "EB",
+        "created_at": "2024-03-12T12:00:00Z",
+        "updated_at": "2024-03-12T12:00:00Z",
+        "slug": "sql-i-bazy-dannykh"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 7,
+      "fields": {
+        "title": "Архитектура компьютера",
+        "year": 2017,
+        "description": "Книга о базовых принципах архитектуры компьютера.",
+        "book_type": "HC",
+        "created_at": "2024-03-12T12:00:00Z",
+        "updated_at": "2024-03-12T12:00:00Z",
+        "slug": "arkhitektura-kompyutera"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 8,
+      "fields": {
+        "title": "Python для анализа данных",
+        "year": 2019,
+        "description": "Книга о использовании языка Python для анализа данных и машинного обучения.",
+        "book_type": "EB",
+        "created_at": "2024-03-12T12:00:00Z",
+        "updated_at": "2024-03-12T12:00:00Z",
+        "slug": "python-dlya-analiza-dannykh"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 9,
+      "fields": {
+        "title": "Git и GitHub",
+        "year": 2020,
+        "description": "Книга о системе контроля версий Git и хостинг-сервисе GitHub.",
+        "book_type": "PB",
+        "created_at": "2024-03-12T12:00:00Z",
+        "updated_at": "2024-03-12T12:00:00Z",
+        "slug": "git-i-github"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 10,
+      "fields": {
+        "title": "Java: Полное руководство",
+        "year": 2021,
+        "description": "Книга о языке программирования Java.",
+        "book_type": "HC",
+        "created_at": "2024-03-12T12:00:00Z",
+        "updated_at": "2024-03-12T12:00:00Z",
+        "slug": "java-polnoe-rukovodstvo"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 11,
+      "fields": {
+        "title": "Python для начинающих",
+        "year": 2023,
+        "description": "Книга о языке программирования Python для новичков.",
+        "book_type": "PB",
+        "created_at": "2024-03-15T09:00:00Z",
+        "updated_at": "2024-03-15T09:00:00Z",
+        "slug": "python-dlya-nachinayushchikh"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 12,
+      "fields": {
+        "title": "JavaScript: The Good Parts",
+        "year": 2008,
+        "description": "Книга о языке программирования JavaScript, фокусирующаяся на лучших практиках.",
+        "book_type": "PB",
+        "created_at": "2024-03-16T10:00:00Z",
+        "updated_at": "2024-03-16T10:00:00Z",
+        "slug": "javascript-the-good-parts"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 13,
+      "fields": {
+        "title": "C++ Primer",
+        "year": 2013,
+        "description": "Книга о языке программирования C++ для начинающих.",
+        "book_type": "HC",
+        "created_at": "2024-03-17T11:00:00Z",
+        "updated_at": "2024-03-17T11:00:00Z",
+        "slug": "c-plus-plus-primer"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 14,
+      "fields": {
+        "title": "HTML & CSS: Design and Build Websites",
+        "year": 2011,
+        "description": "Книга о создании веб-сайтов с использованием HTML и CSS.",
+        "book_type": "PB",
+        "created_at": "2024-03-18T12:00:00Z",
+        "updated_at": "2024-03-18T12:00:00Z",
+        "slug": "html-css-design-and-build-websites"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 15,
+      "fields": {
+        "title": "Algorithms: Explained and Illustrated",
+        "year": 2014,
+        "description": "Книга об алгоритмах с пошаговым объяснением и иллюстрациями.",
+        "book_type": "PB",
+        "created_at": "2024-03-19T13:00:00Z",
+        "updated_at": "2024-03-19T13:00:00Z",
+        "slug": "algorithms-explained-and-illustrated"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 16,
+      "fields": {
+        "title": "The Pragmatic Programmer: Your Journey to Mastery",
+        "year": 2019,
+        "description": "Книга о прагматичном программисте и его пути к мастерству.",
+        "book_type": "PB",
+        "created_at": "2024-03-20T14:00:00Z",
+        "updated_at": "2024-03-20T14:00:00Z",
+        "slug": "the-pragmatic-programmer-your-journey-to-mastery"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 17,
+      "fields": {
+        "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "year": 2008,
+        "description": "Книга о практиках написания чистого и понятного кода.",
+        "book_type": "HC",
+        "created_at": "2024-03-21T15:00:00Z",
+        "updated_at": "2024-03-21T15:00:00Z",
+        "slug": "clean-code-a-handbook-of-agile-software-craftsmanship"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 18,
+      "fields": {
+        "title": "Deep Learning",
+        "year": 2016,
+        "description": "Книга о глубоком обучении и нейронных сетях.",
+        "book_type": "HC",
+        "created_at": "2024-03-22T16:00:00Z",
+        "updated_at": "2024-03-22T16:00:00Z",
+        "slug": "deep-learning"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 19,
+      "fields": {
+        "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+        "year": 1994,
+        "description": "Книга о шаблонах проектирования в объектно-ориентированном программировании.",
+        "book_type": "PB",
+        "created_at": "2024-03-23T17:00:00Z",
+        "updated_at": "2024-03-23T17:00:00Z",
+        "slug": "design-patterns-elements-of-reusable-object-oriented-software"
+      }
+    },
+    {
+      "model": "books.book",
+      "pk": 20,
+      "fields": {
+        "title": "Introduction to Algorithms",
+        "year": 2009,
+        "description": "Введение в алгоритмы и структуры данных.",
+        "book_type": "HC",
+        "created_at": "2024-03-24T18:00:00Z",
+        "updated_at": "2024-03-24T18:00:00Z",
+        "slug": "introduction-to-algorithms"
+      }
+    }
+  ]
+  
